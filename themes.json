@@ -1,3 +1,4 @@
 {
-  "GS": "git@github.com:csymapp/csycms-theme-GS.git"
+  "GS": "git@github.com:csymapp/csycms-theme-GS.git",
+  "default": "git@github.com:csymapp/csycms-theme-default.git"
 }
