@@ -1,4 +1,5 @@
 {
   "GS": "git@github.com:csymapp/csycms-theme-GS.git",
-  "default": "git@github.com:csymapp/csycms-theme-default.git"
+  "default": "git@github.com:csymapp/csycms-theme-default.git",
+  "temporary": "git@github.com:csymapp/temporaryTheme.git"
 }
