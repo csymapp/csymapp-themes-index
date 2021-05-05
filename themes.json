@@ -3,5 +3,5 @@
   "default": "git@github.com:csymapp/csycms-theme-default.git",
   "temporary": "git@github.com:csymapp/temporaryTheme.git",
   "oldDefault": "git@github.com:csymapp/csycms-default-theme-old.git",
-  "oldGS": "git@github.com:csymapp/csycms-GS-theme-old.git",
+  "oldGS": "git@github.com:csymapp/csycms-GS-theme-old.git"
 }
